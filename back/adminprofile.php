@@ -8,6 +8,18 @@
     <title>Admin Profile</title>
     <link rel="stylesheet" href="../front/css/bootstrap.min.css">
     <link rel="stylesheet" href="../front/css/product.css">
+   <style> button {
+  cursor: pointer;
+  border: 0;
+  border-radius: 4px;
+  font-weight: 600;
+  margin: 0 10px;
+  width: 200px;
+  padding: 10px 0;
+  box-shadow: 0 0 20px rgba(104, 85, 224, 0.2);
+  transition: 0.4s;
+} 
+       </style>
 </head>
 
 <body>
